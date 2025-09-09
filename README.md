@@ -1,7 +1,7 @@
 # Voice-Assistant-
-A Python-based AI voice assistant with CustomTkinter GUI, speech recognition, and memory features.
+A Python-based voice assistant with CustomTkinter GUI, speech recognition, and memory features.
 
-🤖 ASUS – Your AI Voice Assistant
+🤖 ASUS – Your Personal Voice Assistant
 
 ASUS is a desktop AI voice assistant built using Python. It combines speech recognition, text-to-speech, and a modern GUI (CustomTkinter) to provide a smart assistant experience.
 
